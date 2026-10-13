@@ -14,4 +14,4 @@ compile_commands.json
 
 # IDE and tool artifacts
 .vs/
-.vscode/*.log
+.vscode/
