@@ -1,0 +1,17 @@
+# CMake build trees
+/build/
+/build-*/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Generated benchmark output
+*.csv
+*.jsonl
+
+# IDE and tool artifacts
+.vs/
+.vscode/*.log
